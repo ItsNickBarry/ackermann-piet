@@ -17,8 +17,8 @@ Piet is a stack-based programming language which consists of images rather than 
 ### Links
 * [Piet Mondrian][mondrian] on Wikipedia.
 * [Piet][dangermouse] on David Morgan-Mar's website.
-* [PietDev][pietdev], a Piet IDE and debugger by Oscar Rodríguez used in the implementation of the Ackermann function.
-* The [Piet Assembler][assembler], a program by Sergei Lewis which automatically generates Piet programs.
+* [PietDev][pietdev], a Piet IDE and debugger by Oscar Rodríguez used in the creation of this program.
+* The [Piet Assembler][assembler], a program by Sergei Lewis which reads text commands and generates Piet code, such as the text output portion of this program.
 
 [mondrian]: https://en.wikipedia.org/wiki/Piet_Mondrian
 [dangermouse]: http://www.dangermouse.net/esoteric/piet.html

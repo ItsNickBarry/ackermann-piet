@@ -24,3 +24,7 @@ Piet is a stack-based programming language which consists of images rather than 
 [dangermouse]: http://www.dangermouse.net/esoteric/piet.html
 [pietdev]: http://www.rapapaing.com/blog/?page_id=6
 [assembler]: http://www.toothycat.net/wiki/wiki.pl?MoonShadow/Piet
+
+## Known Issues
+* Program contains black pixels, which seems like cheating.
+* Program is kind of ugly overall.

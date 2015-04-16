@@ -28,3 +28,4 @@ Piet is a stack-based programming language which consists of images rather than 
 ## Known Issues
 * Program contains black pixels, which seems like cheating.
 * Program is kind of ugly overall.
+* Does not seem to work with npiet.  Only successfully tested in PietDev.

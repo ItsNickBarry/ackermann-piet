@@ -1,5 +1,9 @@
 # ackermann-piet
+The ackermann-piet repository contains an implementation of the Ackermann function in the Piet language.
 
+The code is a [visual experience][code].
+
+[code]: ./lib/ackermann-piet.png
 
 ## The Ackermann Function
 The Ackermann function, named for Wilhelm Ackermann, is an example of a total computable function which is not primitive recursive.  As the value of its arguments increases linearly, the time required to compute it increases superexponentially.

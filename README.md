@@ -1,5 +1,5 @@
-# ackermann-piet
-The ackermann-piet repository contains an implementation of the Ackermann function in the Piet language.
+# The Ackermann function, in Piet
+This repository contains an implementation of the Ackermann function in the Piet language.
 
 The code is a [visual experience][code].
 
